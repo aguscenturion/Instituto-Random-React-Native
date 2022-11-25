@@ -1,9 +1,9 @@
 # Instituto-Random-React-Native
 
 
-**usuario: ** *admin*
+*usuario: * *admin*
 
-**contraseña** *admin*
+*contraseña:* *admin*
 
 
 link del backend : https://github.com/aguscenturion/Instituto-Random
