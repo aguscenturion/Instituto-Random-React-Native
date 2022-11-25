@@ -1,7 +1,7 @@
 # Instituto-Random-React-Native
 
 
-*usuario: * *admin*
+*usuario:* *admin*
 
 *contraseña:* *admin*
 
